@@ -10,3 +10,24 @@ O jogo é feito para dois jogadores e consiste numa grelha 7x6 que vai sendo pre
 
 ## Screenshots
 
+### First Screen
+
+![alt tab](http://i.imgur.com/gYCRSNe.png)
+
+***
+
+### Main Menu
+
+![alt tab](http://i.imgur.com/ZXiOfcM.png)
+
+***
+
+### Customization Menu
+
+![alt tab](http://i.imgur.com/Vwza8lb.png)
+
+***
+
+### Game
+
+![alt tab](http://i.imgur.com/hcWRfKo.png)
