@@ -1,4 +1,4 @@
-# LCOM-Project-Connect-4
+# LCOM-code
 
 Este repositório contém o código realizado nas fichas e projetos da Unidade Curricular de LCOM - FEUP.
 
